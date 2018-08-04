@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Telephone Debug" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Telephone" TARGET_NAME="Telephone" CONFIG_NAME="Debug" SCHEME_NAME="Telephone Debug" RUN_TARGET_PROJECT_NAME="Telephone" RUN_TARGET_NAME="Telephone" MAKE_ACTIVE="TRUE">
+    <envs />
+    <method />
+  </configuration>
+</component>
